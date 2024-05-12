@@ -12,3 +12,8 @@ def get_sheep:
 
 def get people:
     return people
+
+village_name = "Pune"
+
+def get_village_name:
+    return village_name
